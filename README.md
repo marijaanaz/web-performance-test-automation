@@ -1,2 +1,11 @@
 # web-performance-test-automation
-Web Performance Testing and Test Automation class at UCSD
+This repository contains example code for the
+*Web Performance Testing and Test Automation* class at UCSD.
+
+## Setup
+
+
+## Running Tests
+
+
+## More Info
